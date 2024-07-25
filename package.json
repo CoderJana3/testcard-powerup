@@ -1,0 +1,15 @@
+{
+  "name": "TrelloPowerUps",
+  "version": "1.0.0",
+  "description": "TestCard PowerUp",
+  "main": "index.js",
+  "repository": "https://github.com/CoderJana3/testcard-powerup.git",
+  "author": "Jana Dahlmann <jana.dahlmann@tu-dortmund.de>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
