@@ -131,3 +131,6 @@ dist
 
 # ignore cloned repository
 testcard-powerup
+
+# ignore github for static website deployment Test
+.github
