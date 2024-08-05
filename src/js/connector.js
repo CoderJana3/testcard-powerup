@@ -4,7 +4,7 @@ window.TrelloPowerUp.initialize({
     'card-buttons': function(t, options){
         //return an array at card-badges 
         return [{
-            icon: './testicon.png',
+            icon: 'https://github.com/CoderJana3/testcard-powerup/blob/main/src/testicon.png',
             text: 'Estimate Size',
         }];
     }
