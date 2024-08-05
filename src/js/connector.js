@@ -1,8 +1,10 @@
-console.log('Hello World!');
+//console.log('Hello World!');
 
 window.TrelloPowerUp.initialize({
-    'card-badges': function(t, options){
+    'card-buttons': function(t, options){
         //return an array at card-badges 
-        return [];
+        return [{
+            text: 'Estimate Size',
+        }];
     }
 });
