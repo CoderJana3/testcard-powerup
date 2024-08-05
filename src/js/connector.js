@@ -8,5 +8,5 @@ window.TrelloPowerUp.initialize({
             icon: 'https://github.com/CoderJana3/testcard-powerup/blob/main/src/testicon.png',
             text: 'Estimate Size',
         }];
-    }
+    },
 });
