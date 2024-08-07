@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # ignore cloned repository
-testcard-powerup
+#testcard-powerup
 
 # ignore github for static website deployment Test
 .github
